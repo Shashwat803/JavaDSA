@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="288afd7d-4030-4a38-94db-e68257f80fb5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/AverageOfN_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/EvenDaysInAugustKunalCanGoOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/Factors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/LargestNumberTillUserEnterZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/ReverseAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/SubtractProductAndSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/SumOfN_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/SumOfNumbersTillUserEnterZero.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EFLXHplGXlGSwFUdFBZR4lDtE5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;4a1106&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.EvenDaysInAugustKunalCanGoOut">
+    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditionals_Loops.ArmstrongNumber" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Conditionals_Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AverageOfN_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditionals_Loops.AverageOfN_Numbers" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Conditionals_Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenDaysInAugustKunalCanGoOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditionals_Loops.EvenDaysInAugustKunalCanGoOut" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Conditionals_Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditionals_Loops.ReverseAString" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Conditionals_Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfN_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditionals_Loops.SumOfN_Numbers" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Conditionals_Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EvenDaysInAugustKunalCanGoOut" />
+        <item itemvalue="Application.ReverseAString" />
+        <item itemvalue="Application.ArmstrongNumber" />
+        <item itemvalue="Application.SumOfN_Numbers" />
+        <item itemvalue="Application.AverageOfN_Numbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="288afd7d-4030-4a38-94db-e68257f80fb5" name="Changes" comment="" />
+      <created>1662186426357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662186426357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
