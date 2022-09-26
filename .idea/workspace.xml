@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="288afd7d-4030-4a38-94db-e68257f80fb5" name="Changes" comment="Convert all topic questions into a function solution">
       <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayPermutation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Arrays/ConcatenationOfArray.java" afterDir="false" />
@@ -15,6 +16,36 @@
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Functions/Examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/Examples.java" afterDir="false" />
+=======
+    <list default="true" id="288afd7d-4030-4a38-94db-e68257f80fb5" name="Changes" comment="Arrays Questions">
+      <change afterPath="$PROJECT_DIR$/src/AmazonQues/FindtheNthMagicNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/CreateTargetArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindNumberswithEvenNumberofDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FindtheHighestAltitude.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/FlippingAnImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bitwise/CountingBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bitwise/SwapOFtwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bitwise/XOROperationinanArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/ArrangeCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/FindTheSmallestLetterGreaterThenTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/GuessNumberHigherorLower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/KthMissingPositiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/PeakIndexInMountainarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/SearchinRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/TwoSum2inputArrayIsSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/ValidPerfectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/HeightChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/HowManyNumbersAreSmallerThanCurrentNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/MaximumProductOfThreeNumbes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/MaximumProductofTwoElementsinanArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/SortIntegersbyTheNumberof1Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/ThirdMaximumNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/Practise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/Practise.java" afterDir="false" />
+>>>>>>> 369ddaa (Arrays Questions)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +88,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Project.color&quot;: &quot;4a1106&quot;,
@@ -73,6 +105,25 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Functions.*" />
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Project.color": "4a1106",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/JavaDSA",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "CodeWithMe"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SortIntegersbyTheNumberof1Bits">
+    <configuration name="HeightChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.HeightChecker" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.*" />
+>>>>>>> 369ddaa (Arrays Questions)
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +131,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="HowManyNumberAreSmaller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.HowManyNumberAreSmaller" />
       <module name="JavaDSA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Arrays.*" />
+=======
+    <configuration name="HowManyNumbersAreSmallerThanCurrentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.HowManyNumbersAreSmallerThanCurrentNumber" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.*" />
+>>>>>>> 369ddaa (Arrays Questions)
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +153,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Practise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Functions.Practise" />
       <module name="JavaDSA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Functions.*" />
+=======
+    <configuration name="MaximumProductOfThreeNumbes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.MaximumProductOfThreeNumbes" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.*" />
+>>>>>>> 369ddaa (Arrays Questions)
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +175,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="RichestCustomer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.RichestCustomer" />
       <module name="JavaDSA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Arrays.*" />
+=======
+    <configuration name="MaximumProductofTwoElementsinanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.MaximumProductofTwoElementsinanArray" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.*" />
+>>>>>>> 369ddaa (Arrays Questions)
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +197,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="ShuffleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.ShuffleArray" />
       <module name="JavaDSA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Arrays.*" />
+=======
+    <configuration name="SortIntegersbyTheNumberof1Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.SortIntegersbyTheNumberof1Bits" />
+      <module name="JavaDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sorting.*" />
+>>>>>>> 369ddaa (Arrays Questions)
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +221,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.ShuffleArray" />
         <item itemvalue="Application.RichestCustomer" />
         <item itemvalue="Application.Examples" />
         <item itemvalue="Application.Practise" />
         <item itemvalue="Application.HowManyNumberAreSmaller" />
+=======
+        <item itemvalue="Application.SortIntegersbyTheNumberof1Bits" />
+        <item itemvalue="Application.HeightChecker" />
+        <item itemvalue="Application.MaximumProductofTwoElementsinanArray" />
+        <item itemvalue="Application.HowManyNumbersAreSmallerThanCurrentNumber" />
+        <item itemvalue="Application.MaximumProductOfThreeNumbes" />
+>>>>>>> 369ddaa (Arrays Questions)
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +295,18 @@
       <option name="project" value="LOCAL" />
       <updated>1662625737634</updated>
     </task>
+<<<<<<< HEAD
     <option name="localTasksCounter" value="8" />
+=======
+    <task id="LOCAL-00008" summary="Arrays Questions">
+      <created>1664206199133</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664206199133</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+>>>>>>> 369ddaa (Arrays Questions)
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,7 +358,17 @@
     <MESSAGE value="Solve Conditionals and Loops questions" />
     <MESSAGE value="Solve Functions Questions" />
     <MESSAGE value="Convert all topic questions into a function solution" />
+<<<<<<< HEAD
     <option name="LAST_COMMIT_MESSAGE" value="Convert all topic questions into a function solution" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+=======
+    <MESSAGE value="Arrays Questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays Questions" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+>>>>>>> 369ddaa (Arrays Questions)
   </component>
 </project>
