@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="288afd7d-4030-4a38-94db-e68257f80fb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaDSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/AverageOfN_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/EvenDaysInAugustKunalCanGoOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/Factors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/LargestNumberTillUserEnterZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/ReverseAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/SubtractProductAndSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/SumOfN_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conditionals_Loops/SumOfNumbersTillUserEnterZero.java" afterDir="false" />
+    <list default="true" id="288afd7d-4030-4a38-94db-e68257f80fb5" name="Changes" comment="Arrays Questions">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +18,21 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,16 +50,17 @@
     &quot;Project.color&quot;: &quot;4a1106&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/JavaDSA&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EvenDaysInAugustKunalCanGoOut">
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditionals_Loops.ArmstrongNumber" />
+  <component name="RunManager" selected="Application.ShuffleArray">
+    <configuration name="Examples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.Examples" />
       <module name="JavaDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditionals_Loops.*" />
+          <option name="PATTERN" value="Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AverageOfN_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditionals_Loops.AverageOfN_Numbers" />
+    <configuration name="HowManyNumberAreSmaller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.HowManyNumberAreSmaller" />
       <module name="JavaDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditionals_Loops.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenDaysInAugustKunalCanGoOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditionals_Loops.EvenDaysInAugustKunalCanGoOut" />
+    <configuration name="Practise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Functions.Practise" />
       <module name="JavaDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditionals_Loops.*" />
+          <option name="PATTERN" value="Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditionals_Loops.ReverseAString" />
+    <configuration name="RichestCustomer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.RichestCustomer" />
       <module name="JavaDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditionals_Loops.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfN_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditionals_Loops.SumOfN_Numbers" />
+    <configuration name="ShuffleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ShuffleArray" />
       <module name="JavaDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditionals_Loops.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EvenDaysInAugustKunalCanGoOut" />
-        <item itemvalue="Application.ReverseAString" />
-        <item itemvalue="Application.ArmstrongNumber" />
-        <item itemvalue="Application.SumOfN_Numbers" />
-        <item itemvalue="Application.AverageOfN_Numbers" />
+        <item itemvalue="Application.ShuffleArray" />
+        <item itemvalue="Application.RichestCustomer" />
+        <item itemvalue="Application.Examples" />
+        <item itemvalue="Application.Practise" />
+        <item itemvalue="Application.HowManyNumberAreSmaller" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +139,56 @@
       <option name="presentableId" value="Default" />
       <updated>1662186426357</updated>
     </task>
+    <task id="LOCAL-00001" summary="Solve Conditionals and Loops questions">
+      <created>1662223760992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662223760992</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Solve Conditionals and Loops questions">
+      <created>1662223834684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662223834684</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Solve Conditionals and Loops questions">
+      <created>1662404812775</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662404812775</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Solve Functions Questions">
+      <created>1662576064548</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662576064548</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Solve Functions Questions">
+      <created>1662576696234</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662576696234</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Convert all topic questions into a function solution">
+      <created>1662625202984</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662625202984</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Convert all topic questions into a function solution">
+      <created>1662625737634</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662625737634</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,10 +196,51 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="a3472d57-e9ab-4170-886e-39848eb7a059">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="a3472d57-e9ab-4170-886e-39848eb7a059" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Solve Conditionals and Loops questions" />
+    <MESSAGE value="Solve Functions Questions" />
+    <MESSAGE value="Convert all topic questions into a function solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Convert all topic questions into a function solution" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
